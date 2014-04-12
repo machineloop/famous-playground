@@ -1,0 +1,11 @@
+{
+  "generator-famous": {
+    "projectName": "newApp",
+    "projectDesc": "newApp",
+    "authorLogin": "jabbrass",
+    "author": {
+      "name": "J. Andrew Brassington",
+      "email": "jabbrass@zoho.com"
+    }
+  }
+}
